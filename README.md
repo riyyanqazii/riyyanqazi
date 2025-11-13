@@ -21,8 +21,8 @@ HTML | CSS | Bootstrap | JavaScript | Git | GitHub
 
 📫 Connect With Me
 
-📧 Email: yourname@gmail.com
-riyyanqazii@gmail.com
+📧 Email: riyyanqazii@gmail.com
+
 🌐 Portfolio: coming soon...
 
 ✨ “Code. Learn. Grow.” ✨
